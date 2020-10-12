@@ -80,4 +80,54 @@ li.active:hover{
 /* Image slider End here*/
 
 
+/* Band Start here*/
+
+.brand{
+	height: 670px;
+	width: 100%;
+	background-color: white;
+}
+
+
+
+.band{
+	width: 60%;
+	height:670px;
+	margin: auto;
+	padding: 60px 0;
+	
+}
+h1,h4{
+	text-align: center;
+	padding: 10px;
+}
+p{
+	text-align: justify;
+	margin-bottom: 40px;
+}
+.profile{
+	float: left;
+}
+div.image div.profile img{
+	height:224px;
+	width: 182px;
+	margin: 9px;
+}
+div.image div.profile h3{
+margin-left: 77px;
+}
+
+/* Band End here*/
+
+
+
+
+
+
+
+
+
+
+
+
 
