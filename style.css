@@ -107,6 +107,7 @@ p{
 }
 .profile{
 	float: left;
+	width: 33.33%;
 }
 div.image div.profile img{
 	height:224px;
